@@ -13,7 +13,10 @@ print(f"type of name:{type(facualty)}")#str
 print(f"type of name:{type(dob)}")#str
     
     #swap variable easily 
- x, y = 10,20
-print("Before swap:x=",x,"y=",y)
-x,y = y,x
+x = 10
+y = 20
+
+print("valu after swap:", x, y)
+
+x, y = y, x
 print("After swap:x=",x,"y=",y)

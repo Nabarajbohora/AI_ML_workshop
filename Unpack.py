@@ -6,3 +6,7 @@ print("\n first elements:",Student_name[0])
 print("last Students:",Student_name[-1])
 print("\n first three:",Student_name[0:3])
 print("\n ecery second student:",Student_name[::2])
+
+#list operation 
+student names.append("Eve")
+print("\n")
